@@ -1,7 +1,8 @@
+# Site settings
 title: Your Name's Portfolio
-author: Your Name
 description: Welcome to my corner of the internet.
-theme: jekyll-theme-minima
 
+# Theme settings
+remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-theme-minima
+  - jekyll-feed
